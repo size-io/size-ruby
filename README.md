@@ -5,6 +5,8 @@ The Size.IO Ruby API is a library which allows easy integration of the Size.IO p
 
 Supplemental Platform API documentation and code samples are available at **http://size.io/developer**
 
+Thanks to [zarqman](https://github.com/zarqman) for contributing the core library.
+
 ## Pre-requisites
 
 Depending on how you want to publish events to the platform, you may need to install an additional Ruby gems.  It is recommended that you install [size-io/size-proxy](https://github.com/size-io/size-proxy) if possible:  this will provided the fastest and most efficient level of throughput.
